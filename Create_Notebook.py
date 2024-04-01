@@ -192,7 +192,7 @@ class Notepad:
 
 	def run(self):
 
-		# Run main application
+		# Run main applicationq
 		self.__root.mainloop()
 
 
